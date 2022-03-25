@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [github.com/itsdhruvarora](github.com/dhruvarora2108)
+- 👨‍💻 All of my projects are available at [github.com/dhruvarora2108](github.com/dhruvarora2108)
 
 - 💬 Ask me about **Python, Javascript**
 
