@@ -36,6 +36,8 @@
 <a href = 'https://www.twitter.com/itsdhruvarora'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'dhruvarora.me'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/itsdhruvarora'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+ 
+ <br><br>
 
 
  ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdhruvarora&theme=dark&show_icons=true)
