@@ -17,7 +17,7 @@ A FullStack Web Developer with expertise in the MERN stack, C++, and strong fund
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsdhruvarora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsdhruvarora) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsdhruvarora) <br>
 <a href="https://www.hackerrank.com/itsdhruvarora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsdhruvarora" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iwanttosmile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iwanttosmile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsdhruvarora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iwanttosmile" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dhruvarora2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvarora2108" height="30" width="40" /></a>
 </p>
 
